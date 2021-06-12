@@ -78,7 +78,6 @@ hash_map_dump(void)
     }
 }
 
-
 void
 find_collisions(void)
 {
