@@ -1,5 +1,7 @@
-0BSD
-====
+hash-table
+==========
 
-Template repo for projects under the Zero-clause BSD license.
+## References
 
+* https://en.wikipedia.org/wiki/Hash_table
+* https://benhoyt.com/writings/hash-table-in-c/#hash-tables
