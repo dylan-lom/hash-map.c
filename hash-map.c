@@ -45,6 +45,6 @@ hash_map_get(const char *key)
 int
 main(void)
 {
-    hash_map_set("Name", (void *)"Dylan Lom");
-    printf("%s\n", (const char *)hash_map_get("Name"));
+    hash_map_set("Name", "Dylan Lom");
+    printf("%s\n", (char *)hash_map_get("Name"));
 }
